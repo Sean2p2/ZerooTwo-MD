@@ -12,7 +12,7 @@
   A Moduler WhatsApp Bot designed for both PM and Groups - To take your boring WhatsApp usage into a whole different level.
 
    
-### Looking for NON MD,go there [NON MD ZERO TWO](https://github.com/Fantox001/Zero-Two)
+### Looking for NON MD,go there [NON MD ZERO TWO](https://github.com/Sean2p2/Zero-Two)
 ### How to enable Zero-Two On your number
 -   First Open `Github Link Of Zero Two`
 -  Click on Fork Button upwards right corner
@@ -73,12 +73,12 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Sampandey001/Zero-Two-Md
+git clone https://github.com/Sean2p2/Zero-Two-Md
 cd Zero-Two-Md
 npm start
 ```
 
-### ⚠️ Warning! 
+### ⚠️ Caution! 
 ```
  This bot is not a official bot by Whatsapp INC So if you want to use it then feel free to do so.
  Your WhatsApp Number can be banned by Whatsapp as it is not official
@@ -93,9 +93,9 @@ npm start
 
 ## Developers
 
-[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/fantox001.png?size=100)](https://github.com/fantox001) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Aaditya](https://github.com/addycracker.png?size=80)](https://github.com/addycracker)
+[![XEON](https://github.com/dgxeon.png?size=80)](https://github.com/dgxeon) | [![Fantox](https://github.com/Sean2p2.png?size=100)](https://github.com/Sean2p2) | [![Sam Pandey](https://github.com/sampandey001.png?size=109)](https://github.com/sampandey001) | [![ISSA](https://github.com/issa2001.png?size=80)](https://github.com/issa2001) | [![Aaditya](https://github.com/addycracker.png?size=80)](https://github.com/addycracker)
 ----|----|----|----|----
-[XEON](https://wa.me/916909137213) | [Fantox](https://wa.me/918101187835) | [Sam Pandey](https://wa.me/919628516236) | [Issa](https://wa.me/254115175696) | [Aditya](https://wa.me/919681777261)
+[Sean2p2](https://wa.me/263779694908) | [Fantox](https://wa.me/918101187835) | [Sam Pandey](https://wa.me/919628516236) | [Issa](https://wa.me/254115175696) | [Aditya](https://wa.me/919681777261)
 Base Bot  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
 
 
@@ -110,7 +110,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 Feel free to contribute.
 
 ### Disclaimer
-This is an open source WhatsApp bot based on Multi Device created by [`@SamPandey001`](https://github.com/SamPandey001) & [`@fantox`](https://github.com/FantoX001) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
+This is an open source WhatsApp bot based on Multi Device created by [`@Sean2p2 `](https://github.com/Sean2p2) & [`@fantox`](https://github.com/FantoX001) working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys). Do not recode it without notifying the owners otherwise you will be petitioned for fraud & copyright infringement!
 
 ## Help
 Give a ⭐ to this repo if it helped you.
